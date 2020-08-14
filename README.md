@@ -11,6 +11,7 @@ aboutMe :: struct {
   hobbies :: string[Reading, Exercise, Learning new things];
   funFact :: I put milk in my bowl first;
 }
+```
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
