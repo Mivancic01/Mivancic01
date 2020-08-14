@@ -12,6 +12,7 @@ aboutMe :: struct {
   funFact :: I put milk in my bowl first;
 }
 ```
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
