@@ -9,6 +9,7 @@
 struct aboutMe {
   std::string languages[3] = {"Croatian C2", "English C1", "German A2"};
   std::string hobbies[3] = {"Reading", "Exercise", "Learning new things"};
+  std::string personality[3] = {"Fun", "Communicative", "Friendly"};
   std::string funFact = "I put milk in my bowl first";
 };
 ```
