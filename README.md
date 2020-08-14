@@ -1,7 +1,7 @@
 # Hello, Im Marko!
 
 - **I am a programmer finishing my Masters degree in computer science**
-- 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 and writting software!
+- **I love programming and writting software!**
 
 ```julia
 module main
