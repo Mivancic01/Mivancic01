@@ -7,10 +7,10 @@
 #include<iostream>
 
 struct aboutMe {
-  string[] languages("Croatian C2", "English C1", "German A2");
-  string[] hobbies("Reading", "Exercise", "Learning new things");
-  string[] funFact("I put milk in my bowl first");
-}
+  std::string languages[3] = {"Croatian C2", "English C1", "German A2"};
+  std::string hobbies[3] = {"Reading", "Exercise", "Learning new things"};
+  std::string funFact = "I put milk in my bowl first";
+};
 ```
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
