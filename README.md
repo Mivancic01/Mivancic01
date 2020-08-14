@@ -34,14 +34,14 @@ aboutMe :: struct {
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
+    </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
-        <span>Unity</span><br><br><br>
+        <span>**Unity**</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/275px-Unity_Technologies_logo.svg.png">
       </td>
       <td width="25%" align="center">
