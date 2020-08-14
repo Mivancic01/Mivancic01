@@ -64,6 +64,8 @@ struct aboutMe {
   </tbody>
 </table>
 
+## **Connect with me**
+
 | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/marko-ivan%C4%8Di%C4%87-9889251b3/) |  [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="insta logo" width="24">](https://www.instagram.com/_mivancic/)
 |---|---|
 
