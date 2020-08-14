@@ -42,15 +42,19 @@ aboutMe :: struct {
       </td>
       <td width="25%" align="center">
         <span><b>Unity</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <img height="64px" src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-masterbrand-black.png">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Scala</b></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Scala_logo.png">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png">
       </td>
     </tr>
   </tbody>
@@ -58,7 +62,7 @@ aboutMe :: struct {
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- 💻 [Sadie Programming Language](https://github.com/sadie-lang/Sadie)
+- 💻 [GDD2 Unity Game]
 
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
