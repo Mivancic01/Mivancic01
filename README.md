@@ -1,6 +1,6 @@
 # Hello, Im Marko!
 
-- 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 finishing my Masters degree in computer science
+- **I am a programmer finishing my Masters degree in computer science**
 - 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 and writting software!
 
 ```julia
