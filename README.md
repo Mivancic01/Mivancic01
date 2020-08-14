@@ -14,7 +14,7 @@ struct aboutMe {
 ```
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+## **What I Use** 
 
 <table>
   <tbody>
@@ -68,12 +68,12 @@ struct aboutMe {
 | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/marko-ivan%C4%8Di%C4%87-9889251b3/) |  [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="insta logo" width="24">](https://www.instagram.com/_mivancic/)
 |---|---|
 
-# 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+# **Currently working on**
 
 - 💻 [GDD2 Unity Game]
 
 
-# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
+# **My Stats**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mivancic01&show_icons=true&theme=radical)
 
