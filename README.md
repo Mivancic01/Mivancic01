@@ -9,7 +9,7 @@ module main
 aboutMe :: struct {
   languages :: string[Croatian C2, English C1, German A2];
   hobbies :: string[Reading, Exercise, Learning new things];
-  funFact :: I put milk in my bowl first;
+  funFact :: [I put milk in my bowl first];
 }
 ```
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
